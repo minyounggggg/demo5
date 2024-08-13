@@ -3,3 +3,15 @@
 <hr/>
 <p>공부를 꾸준히 하자</p>
 <p>공부를 열심히 하자</p>
+
+프로그램 소스코드 삽입하기
+한줄소스 `public static void main(String[] args) {}` 자바코드입니다.<br/>
+` 백팃 쓰기, 여러줄은 ``` 이렇게 3개<br/>
+<br/>
+```java
+int tot = 0;
+for(int i=0; i<10; i++){
+  tot = tot + i
+}
+```
+
